@@ -1,7 +1,7 @@
 
 
 # 30 days Challenge 
-## Day 7  Music Player
+## Day 7  Crypto-wallet
 
 For Learning Purpose 
 
