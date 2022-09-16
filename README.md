@@ -6,7 +6,7 @@
 For Learning Purpose 
 
 ### Final Screenshot : 
-[![Screenshot.jpg](https://i.postimg.cc/N07q7tkS/Screenshot.jpg)](https://postimg.cc/CZ1QSWts)
+[![Screenshot.jpg](https://github.com/DysonThomas/crypto/blob/main/flutter_01.png)
 
 Reference : 
 - [dribbble](https://dribbble.com/shots/19391099-Crypto-wallet-Mobile-app)
