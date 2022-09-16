@@ -1,16 +1,12 @@
-# criptotrackapp
 
-A new Flutter project.
 
-## Getting Started
+# 30 days Challenge 
+## Day 7  Music Player
 
-This project is a starting point for a Flutter application.
+For Learning Purpose 
 
-A few resources to get you started if this is your first Flutter project:
+### Final Screenshot : 
+[![Screenshot.jpg](https://i.postimg.cc/N07q7tkS/Screenshot.jpg)](https://postimg.cc/CZ1QSWts)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Reference : 
+- [dribbble](https://dribbble.com/shots/19391099-Crypto-wallet-Mobile-app)
